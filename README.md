@@ -9,5 +9,5 @@
 - Factorial: Example project professor provided. It is a runtime stack of a Factorial problem. Useful to see how stack frames worked.
 - Lab 4: First runtime stack problem. Calculates sum of squares of a array.
 - Lab 5: Another runtime stack problem. Calculates Fibonacci Sequence of a given number.
-
+- 7-Checker: Code that checks if user input is equal to, greater than, or less than 7.
 #### Note: This code was coded to run on: https://wchargin.com/lc3web/
